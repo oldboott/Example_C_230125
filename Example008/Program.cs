@@ -1,6 +1,6 @@
 ﻿// Найти квадрат числа
 
-Console.Clear();
+System.Console.Clear();
 Console.WriteLine("Введите число: ");
 int number = int.Parse(Console.ReadLine()!);
 int sqr = number * number;
